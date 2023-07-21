@@ -2,7 +2,9 @@
 Corretor de Ortografia VIM PT BR
 
 # INTRODUÇÃO
+
 $mkdir .vim/spell
+
 $ cp pt.utf-8.spl ~.vim/spell/
 
 # VIM
