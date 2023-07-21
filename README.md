@@ -9,5 +9,7 @@ $ cp pt.utf-8.spl ~.vim/spell/
 
 # VIM
 :set spelllang=pt
+
 :set spell
+
 :set nospell
